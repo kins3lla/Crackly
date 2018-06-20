@@ -1,0 +1,23 @@
+{
+  "name": "Crackly",
+  "version": "1.0.0",
+  "description": "Alexa skill in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kins3lla/Crackly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kins3lla/Crackly/issues"
+  },
+  "homepage": "https://github.com/kins3lla/Crackly#readme",
+  "dependencies": {
+    "alexa-app": "^4.2.2"
+  }
+}
